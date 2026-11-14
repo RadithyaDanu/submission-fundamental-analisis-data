@@ -1,1 +1,1 @@
-https://colab.research.google.com/drive/1wwO7fcIvJ02HP4PvJkqZnAnMTZTtoSOs?usp=sharing
+https://g3ioau2pfua9eyqtl7ualq.streamlit.app
